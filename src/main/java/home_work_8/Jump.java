@@ -1,2 +1,6 @@
-package home_work_8;public interface Jump {
+package home_work_8;
+
+public interface Jump {
+
+
 }

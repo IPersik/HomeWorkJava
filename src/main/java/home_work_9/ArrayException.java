@@ -1,7 +1,6 @@
 package home_work_9;
 
 public class ArrayException {
-
     public static void main(String[] args){
         System.out.println(arrayCheck(arr));
         System.out.println(arrayCheck(arr3));
@@ -40,5 +39,3 @@ public class ArrayException {
         return sum;
     }
 }
-
-
